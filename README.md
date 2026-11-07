@@ -2,7 +2,7 @@
 
 **Angular & Electron developer from Kyiv, Ukraine.**
 I build fast and reliable web and desktop applications with Angular, TypeScript and Electron.
-3 years of hands-on experience on a real product in a development team.
+Over 2 years of full-time work on a large Angular + Electron product in a team of 10+ developers.
 
 ## What I can do for you
 
@@ -33,6 +33,7 @@ The same 10,000-row table built twice in Angular 22: one slow, one optimized wit
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -40,12 +41,12 @@ The same 10,000-row table built twice in Angular 22: one slow, one optimized wit
 
 ## Experience
 
-**Software Developer (Angular / Electron)**
-Central Research Institute of the Armed Forces of Ukraine · 2024 to present
+**Frontend Developer (Angular / Electron)**
+Central Research Institute of the Armed Forces of Ukraine · since July 2024
 
-- Develop and maintain a desktop application built with Angular and Electron.
-- Diagnose complex bugs, refactor code and improve performance.
-- Implement modern Angular features: Signals, standalone components, RxJS.
+- Develop a large Angular 19 + Electron desktop application with offline-first local storage (SQLite, TypeORM, Electron IPC).
+- Build and refactor UI with Signals, RxJS, Reactive Forms and Angular Material.
+- Cover logic with Jest unit tests, work under strict ESLint rules, code review in a team of 10+ developers.
 
 ## Research
 
@@ -57,6 +58,7 @@ My research: how ontologies can help small offline language models create correc
 
 I'm open to freelance tasks, part-time contracts and job offers.
 
+- 📄 CV: [raven737.github.io/Roman_Pantiushenko_CV](https://raven737.github.io/Roman_Pantiushenko_CV/)
 - 💼 Fiverr: [roman_dev777](https://www.fiverr.com/roman_dev777)
 - 🔗 LinkedIn: [roman-pantiushenko](https://www.linkedin.com/in/roman-pantiushenko-570184204/)
-- ✉️ Email: [pantiushenko.works@gmail.com](mailto:pantiushenko.works@gmail.com)
+- ✉️ Email: [prvm79@gmail.com](mailto:prvm79@gmail.com)
