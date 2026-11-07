@@ -1,23 +1,62 @@
-# Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+# Hi, I'm Roman Pantiushenko 👋
 
-## Angular & Electron Desktop App Developer
+**Angular & Electron developer from Kyiv, Ukraine.**
+I build fast and reliable web and desktop applications with Angular, TypeScript and Electron.
+3 years of hands-on experience on a real product in a development team.
 
-&emsp;Frontend Software Developer specializing in building and maintaining scalable desktop and web applications using Angular, TypeScript, and Electron. I focus on clean code architecture, efficient bug fixing, performance optimization, and implementing modern framework features (Signals, RxJS, Standalone components).
+## What I can do for you
 
-## My skills:
+- **Fix slow Angular apps.** Large tables, laggy scrolling, heavy change detection. I find the cause and make it fast.
+- **Upgrade Angular.** Move older projects to the latest version, standalone components and Signals.
+- **Build UI from Figma.** Clean, responsive and pixel-accurate components.
+- **Desktop apps with Electron.** Cross-platform desktop applications built with Angular and Electron.
+- **Find and fix hard bugs.** State management, RxJS, refactoring of complex code.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+## Featured project
+
+### [Angular performance: before / after](https://github.com/Raven737/angular-performance-before-after) · [Live demo](https://raven737.github.io/angular-performance-before-after/)
+
+The same 10,000-row table built twice in Angular 22: one slow, one optimized with Signals, OnPush and CDK Virtual Scroll.
+
+| Metric | Before | After |
+|---|---|---|
+| Scrolling | 1 FPS | 60 FPS |
+| Sorting a column | 2,649 ms | 68 ms |
+| DOM elements in the table | 130,000 | 223 |
+
+## Tech stack
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## Experience:
+## Experience
 
-<p><strong>Software Developer</strong> — Commercial & Desktop Application Development (Angular / Electron / TypeScript)</p>
-<p>Specialized in diagnosing complex bugs, state management, refactoring, and developing rich user interfaces for enterprise and desktop environments.</p>
+**Software Developer (Angular / Electron)**
+Central Research Institute of the Armed Forces of Ukraine · 2024 to present
+
+- Develop and maintain a desktop application built with Angular and Electron.
+- Diagnose complex bugs, refactor code and improve performance.
+- Implement modern Angular features: Signals, standalone components, RxJS.
+
+## Research
+
+PhD student in Computer Science at the Institute of Software Systems of the National Academy of Sciences of Ukraine.
+My research: how ontologies can help small offline language models create correct formal documents when computing resources are limited.
+[ORCID 0000-0002-9301-9389](https://orcid.org/0000-0002-9301-9389)
+
+## Let's work together
+
+I'm open to freelance tasks, part-time contracts and job offers.
+
+- 💼 Fiverr: [roman_dev777](https://www.fiverr.com/roman_dev777)
+- 🔗 LinkedIn: [roman-pantiushenko](https://www.linkedin.com/in/roman-pantiushenko-570184204/)
+- ✉️ Email: [pantiushenko.works@gmail.com](mailto:pantiushenko.works@gmail.com)
