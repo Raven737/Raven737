@@ -1,4 +1,4 @@
-# Hi, I'm Roman Pantiushenko 👋
+# Hi, I'm Roman👋
 
 **Angular & Electron developer from Kyiv, Ukraine.**
 I build fast and reliable web and desktop applications with Angular, TypeScript and Electron.
